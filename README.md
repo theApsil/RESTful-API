@@ -1,3 +1,6 @@
+# 21/12/2023 - release
+# 30/12/2023 - Added SSO (using keycloak)
+
 # Flask + SQLAlchemy todo web app using json RestAPI server
 ```
 # write this to command prompt in directory of the project
